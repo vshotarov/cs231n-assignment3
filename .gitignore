@@ -8,3 +8,4 @@ assignment3/*
 cs231n/datasets/squeezenet*
 cs231n/datasets/imagenet*
 cs231n/datasets/coco*
+.ipynb_checkpoints/*
